@@ -5,3 +5,5 @@
 **Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Matrix Factorization (SVD).
   
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Surprise.
+
+**Dataset:** https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek
